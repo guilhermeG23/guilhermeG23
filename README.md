@@ -16,17 +16,17 @@ ___
 
 #### 💻 - Eu trabalho mais ou menos com isso...
 
-* ![php7](https://img.shields.io/static/v1?label=PHP&message=5.6&color=purple)
-* ![php7](https://img.shields.io/static/v1?label=PHP&message=7&color=purple)
-* ![Python3](https://img.shields.io/static/v1?label=Python&message=3&color=blue)
-* ![Mysql](https://img.shields.io/static/v1?label=Mysql&message=5.6&color=green)
-* ![HTML](https://img.shields.io/static/v1?label=HTML&message=4&color=red)
-* ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=pink)
-* ![JS](https://img.shields.io/static/v1?label=JavaScript&message=X&color=yellow)
-* ![Makedown](https://img.shields.io/static/v1?label=Makedown&message=X&color=green)
-* ![Bat](https://img.shields.io/static/v1?label=BAT&message=X&color=gray)
-* ![Docker](https://img.shields.io/static/v1?label=Docker&message=X&color=blue)
-* ![Shell](https://img.shields.io/static/v1?label=Shell&message=X&color=**)
+* [![php7](https://img.shields.io/static/v1?label=PHP&message=5.6&color=purple)](#)
+* [![php7](https://img.shields.io/static/v1?label=PHP&message=7&color=purple)](#)
+* [![Python3](https://img.shields.io/static/v1?label=Python&message=3&color=blue)](#)
+* [![Mysql](https://img.shields.io/static/v1?label=Mysql&message=5.6&color=green)](#)
+* [![HTML](https://img.shields.io/static/v1?label=HTML&message=4&color=red)](#)
+* [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=pink)](#)
+* [![JS](https://img.shields.io/static/v1?label=JavaScript&message=X&color=yellow)](#)
+* [![Makedown](https://img.shields.io/static/v1?label=Makedown&message=X&color=green)](#)
+* [![Bat](https://img.shields.io/static/v1?label=BAT&message=X&color=gray)](#)
+* [![Docker](https://img.shields.io/static/v1?label=Docker&message=X&color=blue)](#)
+* [![Shell](https://img.shields.io/static/v1?label=Shell&message=X&color=**)](#)
 
 ___
 
