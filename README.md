@@ -1,4 +1,4 @@
-### Olá, sou GuilhemeG23 :D
+### Olá, sou GuilhemeG23
 
 ___
 
