@@ -6,7 +6,7 @@ ___
 
 Sou suporte de informática, as vezes preciso resolver algo e fico pensando "será que não da para fazer um batezinho para resolver?", dessa forma acabei entrando como um iniciando na área de desenvolvimento.
 
-Aindo sou um aspirante e nenhum profissional, estou mais para um quebra galho, más posso dizer que criar soluções para o que me foi proposto é uma diversão, pensar em como solucionar, o que usar e demais... é bem divertido.
+Ainda sou um aspirante e nenhum profissional, estou mais para um quebra galho, más posso dizer que criar soluções para o que me foi proposto é uma diversão, pensar em como solucionar, o que usar e demais... é bem divertido.
 
 ___
 
