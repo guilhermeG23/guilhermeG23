@@ -22,7 +22,7 @@ ___
 * [![php7](https://img.shields.io/static/v1?label=PHP&message=7&color=purple)](#)
 * [![Python3](https://img.shields.io/static/v1?label=Python&message=3&color=blue)](#)
 * [![Mysql](https://img.shields.io/static/v1?label=Mysql&message=5.6&color=green)](#)
-* [![HTML](https://img.shields.io/static/v1?label=HTML&message=4&color=red)](#)
+* [![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=red)](#)
 * [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=pink)](#)
 * [![JS](https://img.shields.io/static/v1?label=JavaScript&message=X&color=yellow)](#)
 * [![Makedown](https://img.shields.io/static/v1?label=Makedown&message=X&color=green)](#)
