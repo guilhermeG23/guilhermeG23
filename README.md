@@ -4,9 +4,12 @@ ___
 
 #### Um pouco sobre mim
 
-Sou suporte de informática, as vezes preciso resolver algo e fico pensando "será que não da para fazer um batezinho para resolver?", dessa forma acabei entrando como um iniciando na área de desenvolvimento.
+* Sou suporte de básico de informática;
+* Tenho conhecimento básico de PHP, Python, WebKit(HTML, JS, CSS), Shell Script, SQL (Mysql e Mongo) e um pézinho em C, nada muito profissional, forá uns gatos pingados que estão nos respositórios;
+* Não sou desenvolvedor e posso dizer que não tenho boas práticas firmadas (A melhorar e muito...);
+* Inglês básico;
 
-Ainda sou um aspirante e nenhum profissional, estou mais para um quebra galho, más posso dizer que criar soluções para o que me foi proposto é uma diversão, pensar em como solucionar, o que usar e demais... é bem divertido.
+Forá isso, gosto de estudar coisas novas (maioria nunca será aplicada), gosto de ler e sou jogador de FGO e Genshin (Aquele gacha que só te deixa triste no fim das contas);
 
 ___
 
@@ -16,7 +19,7 @@ https://guilhermeg23.github.io/
 
 ___
 
-#### 💻 - Eu trabalho mais ou menos com isso...
+#### 💻 - Eu mexo mais ou menos com esses listados...
 
 * [![php7](https://img.shields.io/static/v1?label=PHP&message=5.6&color=purple)](#)
 * [![php7](https://img.shields.io/static/v1?label=PHP&message=7&color=purple)](#)
