@@ -4,9 +4,8 @@ ___
 
 #### Um pouco sobre mim
 
-* Sou suporte de básico de informática;
+* Sou desenvolvedor em POG(GO Horse GO!!!!!);
 * Tenho conhecimento básico de PHP, Python, WebKit(HTML, JS, CSS), Shell Script, SQL (Mysql e Mongo) e um pézinho em C, nada muito profissional, forá uns gatos pingados que estão nos respositórios;
-* Não sou desenvolvedor e posso dizer que não tenho boas práticas firmadas (A melhorar e muito...);
 * Inglês básico;
 
 Forá isso, gosto de estudar coisas novas (maioria nunca será aplicada), gosto de ler e sou jogador de FGO e Genshin (Aquele gacha que só te deixa triste no fim das contas);
