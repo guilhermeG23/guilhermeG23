@@ -5,30 +5,16 @@ ___
 #### Um pouco sobre mim
 
 * Sou desenvolvedor em POG(GO Horse GO!!!!!);
-* Tenho conhecimento básico de PHP, Python, WebKit(HTML, JS, CSS), Shell Script, SQL (Mysql e Mongo) e um pézinho em C, nada muito profissional, forá uns gatos pingados que estão nos respositórios;
+* Tenho conhecimento básico de PHP, Python e Shell;
 * Inglês básico;
 
-Forá isso, gosto de estudar coisas novas (maioria nunca será aplicada), gosto de ler e sou jogador de FGO e Genshin (Aquele gacha que só te deixa triste no fim das contas);
-
 ___
 
-#### Blog ou mais ou menos isso...
+#### Aprendendo outras coisas no meio tempo...
 
-https://guilhermeg23.github.io/
+* GO, PHP, Rust, Docker e Kube;
 
-___
-
-#### 💻 - Eu mexo mais ou menos com esses listados...
-
-* [![php7](https://img.shields.io/static/v1?label=PHP&message=7&color=purple)](#)
-* [![Python3](https://img.shields.io/static/v1?label=Python&message=3&color=blue)](#)
-* [![Mysql](https://img.shields.io/static/v1?label=Mysql&message=5.6&color=green)](#)
-* [![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=red)](#)
-* [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=pink)](#)
-* [![JS](https://img.shields.io/static/v1?label=JavaScript&message=X&color=yellow)](#)
-* [![Bat](https://img.shields.io/static/v1?label=BAT&message=X&color=gray)](#)
-* [![Docker](https://img.shields.io/static/v1?label=Docker&message=X&color=blue)](#)
-* [![Shell](https://img.shields.io/static/v1?label=Shell&message=X&color=**)](#)
+O resto eu vou procurando conforme vou conhecendo. 
 
 ___
 
