@@ -1,31 +1,23 @@
-### Olá, sou GuilhemeG23
-
+### Guilherme Rodrigo Brechot
 ___
-
-#### Um pouco sobre mim
-
-* Sou desenvolvedor em POG(GO Horse GO!!!!!);
-* Tenho conhecimento básico de PHP, Python e Shell;
-* Inglês básico;
-
+### About me:
+* Junior developer;
+* I usually work with PHP/JS/Python/Shell Script/Mysql and automations;
 ___
-
-#### Aprendendo outras coisas no meio tempo...
-
-* GO, PHP, Rust, Docker e Kube;
-
-O resto eu vou procurando conforme vou conhecendo. 
-
+### Currently studying:
+* C/GO/Rust (Search performance);
+* Containers/Docker/Kubernetes (Generate isolated and easily replicable environments);
+* English in general (Always good);
+* Improvement in existing languages ​​(Mainly PHP/Python);
 ___
+### Work history:
+* 5 years as technical support at Ramenzoni;
+* 3 years as a junior developer at BluePex (Current job);
+___
+### Where to find me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermebrechot/?igsh=OTZtenJwZm02aWZ1#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigo-brechot-544a131b4/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GuilhermeTIB)
 
-#### Onde me encontrar:
-
-* [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermeG23)](https://github.com/guilhermeG23/)
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rodrigo-brechot-544a131b4/)](https://www.linkedin.com/in/guilherme-rodrigo-brechot-544a131b4/)
-* [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GuilhermeTIB)](https://twitter.com/GuilhermeTIB)
-
-____
-
-#### Até mais...
-
-![angra](https://static.wikia.nocookie.net/fategrandorder/images/6/63/Figure_107.png/revision/latest/top-crop/width/300/height/300?cb=20200331195954)
+Anything just call...
+___
