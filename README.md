@@ -12,7 +12,7 @@ ___
 ___
 ### Work history:
 * 5 years as technical support at Ramenzoni;
-* 3 years as a junior developer at BluePex (Current job);
+* 4 years as a junior developer at BluePex (Current job);
 ___
 ### Where to find me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermebrechot/?igsh=OTZtenJwZm02aWZ1#)
