@@ -10,10 +10,10 @@ I have over 12 years of experience in Information Technology, with a background 
 
 ## 🚀 About Me
 
-- 💼 Backend Developer.
-- 🐧 Linux enthusiast.
-- ⚙️ Passionate about automation and process optimization.
-- 📚 Continuously improving my skills in PHP, Python, Docker, and Software Architecture.
+- 💼 Backend Developer
+- 🐧 Linux enthusiast
+- ⚙️ Passionate about automation and process optimization
+- 📚 Continuously improving my skills in PHP, Python, Docker, and Software Architecture
 
 ---
 
@@ -49,15 +49,6 @@ I have over 12 years of experience in Information Technology, with a background 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeG23&show_icons=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeG23&layout=compact"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigo-brechot-544a131b4)
@@ -65,3 +56,4 @@ I have over 12 years of experience in Information Technology, with a background 
 ---
 
 > *"Continuous improvement is better than delayed perfection."*
+
